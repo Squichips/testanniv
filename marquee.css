@@ -18,7 +18,8 @@ body{
 
 @media screen and (max-width:500px){
     marquee{
-        font-size: 85px;
+        
+        font-size: 70px;
        color: rgb(4, 0, 255);
           text-shadow:  0 0 7px #fff, 
                    0 0 10px #fff, 
